@@ -10,13 +10,13 @@
   .doodler {
     width: 87px;
     height: 85px;
-    background-image: url('img/doodle.png');
+    background-image: url('img/doodler-guy.png');
     position: absolute;
   }
   
   .platform {
     width: 85px;
     height: 15px;
-    background-image: url('img/barra.png');
+    background-image: url('img/platform.png');
     position: absolute;
   }
